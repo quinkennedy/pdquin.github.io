@@ -16,4 +16,4 @@ WTF gathers the scraps of personal thought and comment along the arc of Paul's w
 
 Contact
 
-Love to hear from you any way you can reach me. Comment on this page, email me [paul.d.quin@gmail.com](paul.d.quin@gmail.com) or drop by the Glamoure Spot Studio at 16th + Sanchez in San Francisco. I'm on Fb and LinkedIn, have a twit account but don't yet.
+Love to hear from you any way you can reach me. Comment on this page, email me [paul.d.quin@gmail.com](paul.d.quin@gmail.com) or drop by the Glamoure Spot Studio at 16th + Sanchez in San Francisco. I'm on Fb and LinkedIn, have a twit account but don't do it yet.
