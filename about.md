@@ -12,8 +12,8 @@ Paul lives in San Francisco with his husband of nearly 20 years, the wearables a
 
 About this page
 
-WTF gathers the scraps of personal thoguht and comment along the arc of Paul's working life, including how-tos for designers about geeky things, observations on the cultural and community scene, experiments in writing and design and thoughts on the integrity of language. This page is itself an experiment – in this incarnation, an experiment in using the github idiot file as a blog machine.
+WTF gathers the scraps of personal thought and comment along the arc of Paul's working life, including how-tos for designers about geeky things, observations on the cultural and community scene, experiments in writing and design and thoughts on the integrity of language. This page is itself an experiment – in this incarnation, an experiment in using the github idiot file as a blog machine.
 
 Contact
 
-Love to hear from you any way you can reach me. Comment on this page, email me [paul.d.quin@gmail.com](paul.d.quin@gmail.com) or drop by the Glamoure Spot Studio at 16th + Sanchez in San Francisco. I'm on Fb and LinkedIn, have a twit account but don't yet.
+Love to hear from you any way you can reach me. Comment on this page, email me [paul.d.quin@gmail.com](paul.d.quin@gmail.com) or drop by the Glamoure Spot Studio at 16th + Sanchez in San Francisco. I'm on Fb and LinkedIn, have a twit account but don't do it yet.
