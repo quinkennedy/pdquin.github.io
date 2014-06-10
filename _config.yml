@@ -8,10 +8,9 @@ url: "http://wtf.pdquin.com"
 author:
  twitter: pdquin
  github: pdquin
- google: PDQuin
- linkedin: paul-quin
- facebook: "original.vincie"
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown: gfm
+permalink: /:title.html
+paginate: 5
+paginate_path: "blog/page:num"
