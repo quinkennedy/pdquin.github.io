@@ -1,16 +1,16 @@
 # Site settings
-title: WTF | PDQuin
-subtitle: Write | Teach | Format | The arc of a working life
+title: "WTF | PDQuin"
+subtitle: "Write | Teach | Format | The arc of a working life"
 email: himself@pdquin.com
 description: "Sharing geeky designer how-tos, write/design trials and random notes"
 baseurl: "http://wtf.pdquin.com"
 url: "http://wtf.pdquin.com"
 author:
-	twitter: pdquin
-	github: pdquin
-	google: PDQuin
-	linkedin: paul-quin
-	facebook: original.vincie
+ twitter: pdquin
+ github: pdquin
+ google: PDQuin
+ linkedin: paul-quin
+ facebook: "original.vincie"
 
 # Build settings
 markdown: kramdown
