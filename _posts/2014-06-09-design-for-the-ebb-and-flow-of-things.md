@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Design for the Ebb and Flow of Things"
+subtitle: "The state of the web design craft – and what's next for me"
+category: webdesign
+tags:
+ - theory
+ ---
+
 ####WebDesign 0.Overview
 {{ title }}
 {{ subtitle }}
