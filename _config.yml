@@ -3,8 +3,8 @@ title: "WTF | PDQuin"
 subtitle: "Write | Teach | Format | The arc of a working life"
 email: himself@pdquin.com
 description: "Sharing geeky designer how-tos, write/design trials and random notes"
-baseurl: "http://wtf.pdquin.com"
-url: "http://wtf.pdquin.com"
+baseurl: 
+url: 
 author:
  twitter: pdquin
  github: pdquin
